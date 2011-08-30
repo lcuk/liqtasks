@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=liqtasks
+Exec=/usr/bin/liqtasks-run.sh
+Type=Application
+Icon = liqtasks
+x-Window-Icon = liqtasks
+x-Window-Icon-Dimmed = liqtasks
+StartupWMClass=liqtasks
+X-Osso-Service=org.maemo.liqtasks
+X-Osso-Type=application/x-executable
+StartupNotify=false

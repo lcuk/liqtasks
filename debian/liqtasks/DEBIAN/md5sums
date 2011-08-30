@@ -1,0 +1,10 @@
+21744c8f0879e22748a21f018ac54481  usr/share/dbus-1/services/org.maemo.liqtasks.service
+15fe75c2b40cd2fedb38057f23e3e8c0  usr/share/doc/liqtasks/changelog.gz
+ecba78b17d11a82d83a0dcecdcd76238  usr/share/doc/liqtasks/copyright
+e99c4a225f5fbb6f76e9d4f5816ecea0  usr/share/icons/hicolor/scalable/apps/liqtasks.png
+6f0b8458000835ff020cad68cf47d5d0  usr/share/applications/hildon/liqtasks.desktop
+cb245ba6219731c439f723624bafe993  usr/share/liqbase/liqtasks/liqtasks.so
+e99c4a225f5fbb6f76e9d4f5816ecea0  usr/share/liqbase/liqtasks/media/liqtasks.png
+81035f65629fa6af4ac558022d730beb  usr/share/liqbase/liqtasks/media/readme
+bc3f6d5c3a0f18c7d8c2372a280dc29d  usr/share/liqbase/liqtasks/liqtasks
+f7bdd07bc63284a18a0e66c1346de7dc  usr/bin/liqtasks-run.sh
